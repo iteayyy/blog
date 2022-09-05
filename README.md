@@ -1,4 +1,9 @@
 # blog.github.io
-blog test
+
 markdown:  kramdown
-theme: minima
+
+
+remote_theme: benbalter/retlab
+
+
+blog test
