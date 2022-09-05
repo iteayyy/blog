@@ -2,8 +2,6 @@
 
 markdown:  kramdown
 
-
-remote_theme: benbalter/retlab
-
+theme: minima
 
 blog test
